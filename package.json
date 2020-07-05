@@ -1,7 +1,6 @@
 {
   "name": "liveconnect-layout",
   "version": "1.0.0",
-  "description": "",
   "main": "liveconnect-layout.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/srinivaskona/liveconnect-layout/issues"
   },
-  "homepage": "https://github.com/srinivaskona/liveconnect-layout#readme"
+  "homepage": "https://github.com/srinivaskona/liveconnect-layout#readme",
+  "description": ""
 }
