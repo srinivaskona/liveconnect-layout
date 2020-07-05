@@ -13,10 +13,10 @@
     "liveconnect-layout"
   ],
   "author": "srinivas k",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/srinivaskona/liveconnect-layout/issues"
   },
   "homepage": "https://github.com/srinivaskona/liveconnect-layout#readme",
-  "description": ""
+  "description": "npm install liveconnect-layout"
 }
